@@ -1,0 +1,19 @@
+{
+  "name": "heifer",
+  "version": "1.0.0",
+  "description": "This is part of my first JavaScript project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bgoodwin24/heifer.git"
+  },
+  "author": "BGoodwin24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bgoodwin24/heifer/issues"
+  },
+  "homepage": "https://github.com/Bgoodwin24/heifer#readme"
+}
