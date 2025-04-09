@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is part of my first JavaScript project",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "start": "node main.js"
   },
