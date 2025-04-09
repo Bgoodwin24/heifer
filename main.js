@@ -1,5 +1,6 @@
 function main() {
-    console.log("moo!");
+    const name = "heifer";
+    console.log(`moo, ${name}`);
 }
 
 main();

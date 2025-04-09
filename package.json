@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Bgoodwin24/heifer/issues"
   },
-  "homepage": "https://github.com/Bgoodwin24/heifer#readme"
+  "homepage": "https://github.com/Bgoodwin24/heifer#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.27.0",
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9"
+  }
 }
