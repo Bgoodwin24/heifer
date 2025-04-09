@@ -1,8 +1,9 @@
 import { moo } from "./moo.js";
+import { say } from "cowsay";
 
 function main() {
     const name = "heifer";
-    console.log(moo(name));
+    console.log(say({text: moo(name) }));
 }
 
 main();
