@@ -1,6 +1,7 @@
 function main() {
     const name = "heifer";
-    console.log(`moo, ${name}`);
+    const {moo} = require("./moo.js");
+    console.log(moo(name));
 }
 
 main();
